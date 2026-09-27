@@ -1,0 +1,11 @@
+Textbook: 
+[Du2017] Du, W. (2017). Computer Security: a hands-on approach. CreateSpace.
+[Stallings2018] Stallings, W., Brown, L. (2018). Computer security: principles and practice (4th ed.). Upper Saddle River, NJ, USA: Pearson Education.
+Other useful books: 
+[Chapple2021] Chapple, M. (2021). CISSP Official Study Guide (9th ed.). Sybex.
+[Walker2019] Walker, M. (2019). CEH Certified Ethical Hacker All-in-One Exam Guide (4th ed.). McGraw-Hill Education.
+[Fox2014] Fox, R. (2014). Linux with operating system concepts. CRC Press.
+[Nemeth2018] Nemeth, E., Snyder, G., Hein, T. R., Whaley, B., & Mackin, D. (2018). UNIX and Linux system administration handbook (5th ed.). Addison-Wesley.
+
+Lab
+https://seedsecuritylabs.org/labsetup.html
