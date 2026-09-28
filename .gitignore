@@ -1,0 +1,24 @@
+# AI assistant / tooling
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.codex/
+AGENTS.md
+.cursor/
+.cursorrules
+.windsurf/
+.windsurfrules
+.aider*
+.continue/
+.copilot/
+.github/copilot-instructions.md
+.gemini/
+GEMINI.md
+
+# Dependencies (e.g. @openai/codex)
+node_modules/
+
+# AI-generated notes
+CONTEXT.md
+ROADMAP.md
+docs/
